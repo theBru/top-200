@@ -1,0 +1,349 @@
+@import 'reset';
+@import 'variables';
+@import 'color-variables';
+
+/* General */
+html {
+    margin-left: calc(100%-100vh);
+}
+
+body {
+    margin: 5vh auto;
+    width: 90%;
+    max-width: 840px;
+    color: $font-color;
+    line-height: $line-height;
+}
+
+/* Typography */
+
+#site-title {
+    font-size: $font-small;
+    margin-bottom: $unit * 2;
+    font-family: $heading-font;
+    font-weight: $font-weight-bold;
+}
+
+.film-name,
+.post-title {
+    font-size: $font-medium;
+    font-family: $heading-font;
+}
+
+.post-title {
+    margin-bottom: $unit * 3;
+}
+
+a {
+    color: inherit;
+}
+
+p {
+    font-family: $para-font;
+    font-size: $font-normal;
+    font-weight: $font-weight-light;
+    margin-bottom: $unit;
+}
+
+.meta-tags {
+    font-size: $font-small;
+    font-weight: $font-weight-light;
+    margin-bottom: $unit * 2;
+    border-radius: 3px;
+    padding: 0.5rem;
+}
+
+.font-weight-bold,
+strong {
+    font-weight: $font-weight-bold;
+}
+
+.font-weight-normal {
+    font-weight: $font-weight-normal;
+}
+
+p em {
+    font-style: italic;
+}
+
+/* images */
+img {
+    width: 100%;
+    height: auto;
+    margin-bottom: $unit;
+    border-radius: 3px;
+}
+
+/* other */
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, #ffffff, #000000, #ffffff);
+    margin: $unit * 6 0;
+}
+
+/* custom color rules */
+#us .position {
+    color: $us;
+}
+
+#us + .meta-tags {
+    border: 1px solid lighten($us,40%);
+    & .accent-color {
+        color: $us;
+    }
+}
+
+#the-house-that-jack-built .position {
+    color: $the-house-that-jack-built;
+}
+
+#the-house-that-jack-built + .meta-tags {
+    border: 1px solid lighten($the-house-that-jack-built,40%);
+    & .accent-color {
+        color: $the-house-that-jack-built;
+    }
+}
+
+#booksmart .position {
+    color: $booksmart;
+}
+
+#booksmart + .meta-tags {
+    border: 1px solid lighten($booksmart,40%);
+    & .accent-color {
+        color: $booksmart;
+    }
+}
+
+#timbuktu .position {
+    color: $timbuktu;
+}
+
+#timbuktu + .meta-tags {
+    border: 1px solid lighten($timbuktu,40%);
+    & .accent-color {
+        color: $timbuktu;
+    }
+}
+
+#starred-up .position {
+    color: $starred-up;
+}
+
+#starred-up + .meta-tags {
+    border: 1px solid lighten($starred-up,40%);
+    & .accent-color {
+        color: $starred-up;
+    }
+}
+
+#julias-eyes .position {
+    color: $julias-eyes;
+}
+
+#julias-eyes + .meta-tags {
+    border: 1px solid lighten($julias-eyes,40%);
+    & .accent-color {
+        color: $julias-eyes;
+    }
+}
+
+#pina .position {
+    color: $pina;
+}
+
+#pina + .meta-tags {
+    border: 1px solid lighten($pina,40%);
+    & .accent-color {
+        color: $pina;
+    }
+}
+
+#what-if .position {
+    color: $what-if;
+}
+
+#what-if + .meta-tags {
+    border: 1px solid lighten($what-if,40%);
+    & .accent-color {
+        color: $what-if;
+    }
+}
+
+#looper .position {
+    color: $looper;
+}
+
+#looper + .meta-tags {
+    border: 1px solid lighten($looper,40%);
+    & .accent-color {
+        color: $looper;
+    }
+}
+
+#ash-is-purest-white .position {
+    color: $ash-is-purest-white;
+}
+
+#ash-is-purest-white + .meta-tags {
+    border: 1px solid lighten($ash-is-purest-white,40%);
+    & .accent-color {
+        color: $ash-is-purest-white;
+    }
+}
+
+#true-grit .position {
+    color: $true-grit;
+}
+
+#true-grit + .meta-tags {
+    border: 1px solid lighten($true-grit,40%);
+    & .accent-color {
+        color: $true-grit;
+    }
+}
+
+#scott-pilgrim .position {
+    color: $scott-pilgrim;
+}
+
+#scott-pilgrim + .meta-tags {
+    border: 1px solid lighten($scott-pilgrim,40%);
+    & .accent-color {
+        color: $scott-pilgrim;
+    }
+}
+
+#don-jon .position {
+    color: $don-jon;
+}
+
+#don-jon + .meta-tags {
+    border: 1px solid lighten($don-jon,40%);
+    & .accent-color {
+        color: $don-jon;
+    }
+}
+
+#fruitvale-station .position {
+    color: $fruitvale-station;
+}
+
+#fruitvale-station + .meta-tags {
+    border: 1px solid lighten($fruitvale-station,40%);
+    & .accent-color {
+        color: $fruitvale-station;
+    }
+}
+
+#a-hijacking .position {
+    color: $a-hijacking;
+}
+
+#a-hijacking + .meta-tags {
+    border: 1px solid lighten($a-hijacking,40%);
+    & .accent-color {
+        color: $a-hijacking;
+    }
+}
+
+#theeb .position {
+    color: $theeb;
+}
+
+#theeb + .meta-tags {
+    border: 1px solid lighten($theeb,40%);
+    & .accent-color {
+        color: $theeb;
+    }
+}
+
+#mollys-game .position {
+    color: $mollys-game;
+}
+
+#mollys-game + .meta-tags {
+    border: 1px solid lighten($mollys-game,40%);
+    & .accent-color {
+        color: $mollys-game;
+    }
+}
+
+#john-wick .position {
+    color: $john-wick;
+}
+
+#john-wick + .meta-tags {
+    border: 1px solid lighten($john-wick,40%);
+    & .accent-color {
+        color: $john-wick;
+    }
+}
+
+#stories-we-tell .position {
+    color: $stories-we-tell;
+}
+
+#stories-we-tell + .meta-tags {
+    border: 1px solid lighten($stories-we-tell,40%);
+    & .accent-color {
+        color: $stories-we-tell;
+    }
+}
+
+#locke .position {
+    color: $locke;
+}
+
+#locke + .meta-tags {
+    border: 1px solid lighten($locke,40%);
+    & .accent-color {
+        color: $locke;
+    }
+}
+
+#train-to-busan .position {
+    color: $train-to-busan;
+}
+
+#train-to-busan + .meta-tags {
+    border: 1px solid lighten($train-to-busan,40%);
+    & .accent-color {
+        color: $train-to-busan;
+    }
+}
+
+#in-a-better-world .position {
+    color: $in-a-better-world;
+}
+
+#in-a-better-world + .meta-tags {
+    border: 1px solid lighten($in-a-better-world,40%);
+    & .accent-color {
+        color: $in-a-better-world;
+    }
+}
+
+#the-body .position {
+    color: $the-body;
+}
+
+#the-body + .meta-tags {
+    border: 1px solid lighten($the-body,40%);
+    & .accent-color {
+        color: $the-body;
+    }
+}
+
+#upgrade .position {
+    color: $upgrade;
+}
+
+#upgrade + .meta-tags {
+    border: 1px solid lighten($upgrade,40%);
+    & .accent-color {
+        color: $upgrade;
+    }
+}
