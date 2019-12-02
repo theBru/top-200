@@ -8,8 +8,21 @@ permalink: top-200-films-of-the-decade
 {:.post-title}
 # Top 200 films of the decade, 2010 — 2019
 
+{:#climax .film-name}
+## *200.*{:.position} Climax
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Garpar Noé</span> &#183; Wri: <span class="font-weight-normal">Garpar Noé</span> &#183; <span class="font-weight-normal">2018</span> &#183; <span class="font-weight-normal">France, Belgium</span></p>
+
+![Still image from Climax](/assets/img/climax.jpg)
+
+*A dance troupe organise a final party before their tour at the remote building where they've been rehearsing.*
+
+It may be slightly more palatable for general consumption relative to his other films, but Gaspar Noé's latest experiment left me completely breathless by the end. The usual fluid camera and long, uncut scenes are still plenty, but how he paces this is truly astonishing. There is a 42-minute-uncut final scene (climax, if you will) which is as good as an example of nightmare on film I can think of. Unique in the truest sense.
+
+---
+
 {:#us .film-name}
-## *200.*{:.position} US
+## *199.*{:.position} US
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Jordan Peele</span> &#183; Wri: <span class="font-weight-normal">Jordan Peele</span> &#183; <span class="font-weight-normal">2019</span> &#183; <span class="font-weight-normal">USA</span></p>
 
@@ -22,7 +35,7 @@ Jordan Peele's follow-up to the vastly successful (and vastly overrated) **Get o
 ---
 
 {:#the-house-that-jack-built .film-name}
-## *199.*{:.position} The House That Jack Built
+## *198.*{:.position} The House That Jack Built
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Lars Von Trier</span> &#183; Wri: <span class="font-weight-normal">Lars Von Trier</span> &#183; <span class="font-weight-normal">2018</span> &#183; <span class="font-weight-normal">Denmark, France, Sweden, Germany, Belgium</span></p>
 
@@ -35,7 +48,7 @@ Don't call it a comeback, but Lars Von Trier needed something pretty special to 
 ---
 
 {:#booksmart .film-name}
-## *198.*{:.position} Booksmart
+## *197.*{:.position} Booksmart
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Olivia Wilde</span> &#183; Wri: <span class="font-weight-normal">Emily Halpern, Sarah Haskins, Susanna Fogel, Katie Silberman</span> &#183; <span class="font-weight-normal">2019</span> &#183; <span class="font-weight-normal">USA</span></p>
 
@@ -48,7 +61,7 @@ Taking its cue from the best of high school comedies of yore, this is a smart, h
 ---
 
 {:#timbuktu .film-name}
-## *197.*{:.position} Timbuktu
+## *196.*{:.position} Timbuktu
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Abderrahmane Sissako</span> &#183; Wri: <span class="font-weight-normal">Abderrahmane Sissako, Kessen Tall</span> &#183; <span class="font-weight-normal">2014</span> &#183; <span class="font-weight-normal">Mauritania, France</span></p>
 
@@ -61,7 +74,7 @@ Timbuktu, the land, conjures up conflicting images: it used to the land of unthi
 ---
 
 {:#starred-up .film-name}
-## *196.*{:.position} Starred up
+## *195.*{:.position} Starred up
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">David Mackenzie</span> &#183; Wri: <span class="font-weight-normal">Jonathan Asser</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">UK</span></p>
 
@@ -74,7 +87,7 @@ Explosive from the start, this is a gritty prison drama that has more heart than
 ---
 
 {:#julias-eyes .film-name}
-## *195.*{:.position} Julia's Eyes
+## *194.*{:.position} Julia's Eyes
 
 <p class="meta-tags"><em>Los ojos de Julia</em> &#183; Dir: <span class="font-weight-normal">Guillem Morales</span> &#183; Wri: <span class="font-weight-normal">Guillem Morales, Oriol Paulo</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">Spain</span></p>
 
@@ -87,7 +100,7 @@ Carrying on from a rich surrealist cultural history, Spain have always produced 
 ---
 
 {:#pina .film-name}
-## *194.*{:.position} Pina
+## *193.*{:.position} Pina
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Wim Wenders</span> &#183; Wri: <span class="font-weight-normal">Wim Wenders</span> &#183; <span class="font-weight-normal">2011</span> &#183; <span class="font-weight-normal">Germany, France, UK, USA</span></p>
 
@@ -99,34 +112,8 @@ An ode to a woman who made poetic movement like no other, **Pina** is itself a c
 
 ---
 
-{:#what-if .film-name}
-## *193.*{:.position} What If
-
-<p class="meta-tags">Dir: <span class="font-weight-normal">Michael Dowse</span> &#183; Wri: <span class="font-weight-normal">Elan Mastai</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">Ireland, Canada</span></p>
-
-![Still image from What If](/assets/img/what-if.jpg)
-
-*A young man and a woman who are best friends but are also falling in love.* 
-
-Romantic comedies are one of the most formulaic of film genres, but very once in a while there is one that treads the same ground, but manages it to be fresh and engaging. It has a lot to do with the leads in almost all cases and Daniel Radcliffe and Zoe Kazan (who appears multiple times on this list) are perfect.
-
----
-
-{:#looper .film-name}
-## *192.*{:.position} Looper
-
-<p class="meta-tags">Dir: <span class="font-weight-normal">Rian Johnson</span> &#183; Wri: <span class="font-weight-normal">Rian Johnson</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">USA, China</span></p>
-
-![Still image from Looper](/assets/img/looper.jpg)
-
-*A hired assassin who goes back in time to kill people for the mob is given a paradoxical task.* 
-
-It's a mind-bending sci-fi original, which was a refreshing thing to see. Gone are the days, of course, when expecting the likes of **Looper** was an everyday occasion. It is a film to be treasured if nothing for the audacity to be pushing the boundaries without resorting to being a franchise fodder.
-
----
-
 {:#ash-is-purest-white .film-name}
-## *191.*{:.position} Ash Is Purest White
+## *192.*{:.position} Ash Is Purest White
 
 <p class="meta-tags"><em>Jiang hu er nü</em> &#183; Dir: <span class="font-weight-normal">Zhangke Jia</span> &#183; Wri: <span class="font-weight-normal">Zhangke Jia</span> &#183; <span class="font-weight-normal">2018</span> &#183; <span class="font-weight-normal">China, France, Japan</span></p>
 
@@ -138,34 +125,8 @@ An allegory of the changing social and economic structures of China, Zhangke Jia
 
 ---
 
-{:#true-grit .film-name}
-## *190.*{:.position} True Grit
-
-<p class="meta-tags">Dir: <span class="font-weight-normal">Joel &amp; Ethan Coen</span> &#183; Wri: <span class="font-weight-normal">Joel &amp; Ethan Coen</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">USA</span></p>
-
-![Still image from True Grit](/assets/img/true-grit.jpg)
-
-*A teenage girl hires a US marshall to hunt down her father's killer.* 
-
-Why fix something that ain't broke, right? Unless that thing is actually broke without anybody realising **and** the people fixing it are the Coens. Their commerciallymost successful film to date, it may not be the most obvious example from their ouevre, but it boasts all of their wonderful traits in a single film. 
-
----
-
-{:#scott-pilgrim .film-name}
-## *189.*{:.position} Scott Pilgrim vs. the World
-
-<p class="meta-tags">Dir: <span class="font-weight-normal">Edgar Wright</span> &#183; Wri: <span class="font-weight-normal">Michael Bacall, Edgar Wright</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">USA, UK, Canada, Japan</span></p>
-
-![Still image from Scott Pilgrim vs. the World](/assets/img/scott-pilgrim.jpg)
-
-*A boy needs to defeat his crush's seven evil exes to have a shot at her.* 
-
-In the intersection of computer games, comic books, and films normally lie a huge pile of dung. But this is an exception that perhaps proves the rule. It is exciting, moving, surprising, and endlessly funny. There isn't a second wasted in this celebration of the inner geek in all of us.
-
----
-
 {:#don-jon .film-name}
-## *188.*{:.position} Don Jon
+## *191.*{:.position} Don Jon
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Joseph Gordon-Levitt</span> &#183; Wri: <span class="font-weight-normal">Joseph Gordon-Levitt</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">USA</span></p>
 
@@ -178,7 +139,7 @@ Yet another debutant director who smashes it out of the park in a reversal of al
 ---
 
 {:#fruitvale-station .film-name}
-## *187.*{:.position} Fruitvale Station
+## *190.*{:.position} Fruitvale Station
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Ryan Coogler</span> &#183; Wri: <span class="font-weight-normal">Ryan Coogler</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">USA</span></p>
 
@@ -191,7 +152,7 @@ There is something very immediate about **Fruitvale Station** and it goes beyond
 ---
 
 {:#a-hijacking .film-name}
-## *186.*{:.position} A Hijacking
+## *189.*{:.position} A Hijacking
 
 <p class="meta-tags"><em>Kapringen</em> &#183; Dir: <span class="font-weight-normal">Tobias Lindholm</span> &#183; Wri: <span class="font-weight-normal">Tobias Lindholm</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">Denmark</span></p>
 
@@ -204,7 +165,7 @@ It is easy to forget that the Somali pirate crisis was a pretty big thing back i
 ---
 
 {:#theeb .film-name}
-## *185.*{:.position} Theeb
+## *188.*{:.position} Theeb
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Naji Abu Nowar</span> &#183; Wri: <span class="font-weight-normal">Naji Abu Nowar, Bassel Ghandour</span> &#183; <span class="font-weight-normal">2014</span> &#183; <span class="font-weight-normal">UAE, Qatar, Jordan, UK</span></p>
 
@@ -217,7 +178,7 @@ A coming-of-age film with a setting not at all familiar to many people who have 
 ---
 
 {:#mollys-game .film-name}
-## *184.*{:.position} Molly's Game
+## *187.*{:.position} Molly's Game
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Aaron Sorkin</span> &#183; Wri: <span class="font-weight-normal">Aaron Sorkin</span> &#183; <span class="font-weight-normal">2017</span> &#183; <span class="font-weight-normal">China, Canada, USA</span></p>
 
@@ -230,7 +191,7 @@ As an Aaron Sorkin fanboy, the thought of him directing a film was giving me all
 ---
 
 {:#john-wick .film-name}
-## *183.*{:.position} John Wick
+## *186.*{:.position} John Wick
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Chad Stahelski</span> &#183; Wri: <span class="font-weight-normal">Derek Kolstad</span> &#183; <span class="font-weight-normal">2014</span> &#183; <span class="font-weight-normal">USA</span></p>
 
@@ -243,7 +204,7 @@ Ignoring all of its meme-inducing cult status and the brilliantly choreographed 
 ---
 
 {:#stories-we-tell .film-name}
-## *182.*{:.position} Stories We Tell
+## *185.*{:.position} Stories We Tell
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Sarah Polley</span> &#183; Wri: <span class="font-weight-normal">Sarah Polley, Michael Polley</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">Canada</span></p>
 
@@ -256,7 +217,7 @@ An exercise in film-making to understand one's own existence is as old as cinema
 ---
 
 {:#locke .film-name}
-## *181.*{:.position} Locke
+## *184.*{:.position} Locke
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Steven Knight</span> &#183; Wri: <span class="font-weight-normal">Steven Knight</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">UK, USA</span></p>
 
@@ -269,7 +230,7 @@ If a film about a man driving at night and talking on the phone doesn't sound ex
 ---
 
 {:#train-to-busan .film-name}
-## *180.*{:.position} Train to Busan
+## *183.*{:.position} Train to Busan
 
 <p class="meta-tags"><em>Busanhaeng</em> &#183; Dir: <span class="font-weight-normal">Sang-ho Yeon</span> &#183; Wri: <span class="font-weight-normal">Sang-ho Yeon, Joo-Suk Park</span> &#183; <span class="font-weight-normal">2016</span> &#183; <span class="font-weight-normal">South Korea</span></p>
 
@@ -282,7 +243,7 @@ It could be reduced merely as a 'zombies on a train' film and it would actually 
 ---
 
 {:#in-a-better-world .film-name}
-## *179.*{:.position} In a Better World
+## *182.*{:.position} In a Better World
 
 <p class="meta-tags"><em>Hævnen</em> &#183; Dir: <span class="font-weight-normal">Susanne Bier</span> &#183; Wri: <span class="font-weight-normal">Anders Thomas Jensen</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">Denmark, Sweden</span></p>
 
@@ -295,7 +256,7 @@ What is striking about **In a Better World** is its juxtaposiion of a war zone t
 ---
 
 {:#the-body .film-name}
-## *178.*{:.position} The Body
+## *181.*{:.position} The Body
 
 <p class="meta-tags"><em>El cuerpo</em> &#183; Dir: <span class="font-weight-normal">Oriol Paulo</span> &#183; Wri: <span class="font-weight-normal">Oriol Paulo, Lara Sendim</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">Spain</span></p>
 
@@ -308,7 +269,7 @@ Fresh off **Julia's Eyes**, its writer Oriol Paulo brings back Belén Rueda for 
 ---
 
 {:#upgrade .film-name}
-## *177.*{:.position} Upgrade
+## *180.*{:.position} Upgrade
 
 <p class="meta-tags">Dir: <span class="font-weight-normal">Leigh Whannell</span> &#183; Wri: <span class="font-weight-normal">Leigh Whannell</span> &#183; <span class="font-weight-normal">2018</span> &#183; <span class="font-weight-normal">Australia</span></p>
 
@@ -317,3 +278,107 @@ Fresh off **Julia's Eyes**, its writer Oriol Paulo brings back Belén Rueda for 
 *A man volunteers for a computer implant after suffering a life-altering accident.* 
 
 A low-budget sci-fi actioner, which tackles a contemporary subject in a way many films would have struggled to make any sense of — bionic human in an age of technophobia. But the premise supplants the plot perfectly and becomes a catalyst for some of the most ingenious action sequences since perhaps **The Matrix**. Between us, it is better than that film too. 
+
+---
+
+{:#lincoln .film-name}
+## *179.*{:.position} Lincoln
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Steven Spielberg</span> &#183; Wri: <span class="font-weight-normal">Tony Kushner</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">USA, India</span></p>
+
+![Still image from Lincoln](/assets/img/lincoln.jpg)
+
+*US President Abraham Lincoln tries to pass the emancipation legislation as the American Civil War is drawing to a close.* 
+
+It's inevitably dominated by the greatest actor of his generation and without Daniel Day-Lewis's performance, this could have been a quality historical epic. It is an eerie performance of a man that none of us have seen in rea life, but I would guess nobody would question the authenticity of the performance. The rest of the film, of course, is also of the highest quality (this being a Spielberg film), but it indubitably belongs to Day-Lewis.
+
+---
+
+{:#moneyball .film-name}
+## *178.*{:.position} Moneyball
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Bennett Miller</span> &#183; Wri: <span class="font-weight-normal">Steven Zaillian, Aaron Sorkin</span> &#183; <span class="font-weight-normal">2011</span> &#183; <span class="font-weight-normal">USA</span></p>
+
+![Still image from moneyball](/assets/img/moneyball.jpg)
+
+*The general manager of the baseball team Oakland Athletics uses data analytics to create a championship winning team on a budget.* 
+
+For sports-to-watch nerds like myself, the story of Billy Beane's use of analytics is a legendary tale and in the hands of Bennett Miller and co-screenwriters Steven Zaillian and Aaron Sorkin (fanboy alert), it becomes a classy drama that not only manages to be compelling watch, but also an emotionally satisfying one. Especially if you tend to root for the underdog.
+
+---
+
+{:#only-god-forgives .film-name}
+## *177.*{:.position} Only God Forgives
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Nicolas Winding Refn</span> &#183; Wri: <span class="font-weight-normal">Niolas Winding Refn</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">Denmark, France, USA, Sweden, Belgium</span></p>
+
+![Still image from Only God Forgives](/assets/img/only-god-forgives.jpg)
+
+*After his brother's death, a drug smuggler hunts down his killers as per his mother's insistence.* 
+
+Released at the height of Ryan Gosling's meteoric rise to the hearts and minds of every film fan out there, **Only God Forgives** is a visually stunning film (albeit a little bit stunted on the pacing front) that refuses to hold back in its violence, both shown and obscured. It is a nightmarish film that slowly creeps under your skin and makes you forget how this all started by the time it ends.
+
+---
+
+{:#kick-ass .film-name}
+## *176.*{:.position} Kick Ass
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Matthew Vaughn</span> &#183; Wri: <span class="font-weight-normal">Jane Goldman, Matthew Vaughn</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">UK, USA</span></p>
+
+![Still image from Kick Ass](/assets/img/kick-ass.jpg)
+
+*A teenager decides to become a superhero despite having no discernible qualifications.* 
+
+A giant fuck-you to any superhero story out there, there is something beautifully cathartic about Dave Lizewski succeeding in an industry that pretty much requires a tonne of money, smarts, or a radioactive bite or two. A punk anthem to your overblown pop rock anthems, if you like. A refreshing, funny-as-hell superhero film that probably will never be bettered.
+
+---
+
+{:#wind-river .film-name}
+## *175.*{:.position} Wind River
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Taylor Sheridan</span> &#183; Wri: <span class="font-weight-normal">Taylor Sheridan</span> &#183; <span class="font-weight-normal">2017</span> &#183; <span class="font-weight-normal">UK, Canada, USA</span></p>
+
+![Still image from Wind River](/assets/img/wind-river.jpg)
+
+*A hunter and an FBI agent track down the people who killed a young woman.* 
+
+Shot in the harsh Wyoming winter, this is the story of a frozen limbo in which hope is as frozen and snowed under as the landscape that surrounds everybody. Although there is a slight undertone of white-man-saving-the-natives feeling there, it doesn't take anything away from the beautiful scenery and the sense of dreadful acceptance of the worst. There is a glimmer of hope in the end, but it's obvious that this is all a part of the cycle that will repeat itself.
+
+---
+
+{:#rebellion .film-name}
+## *174.*{:.position} Rebellion
+
+<p class="meta-tags"><em>L'ordre et la morale</em> &#183; Dir: <span class="font-weight-normal">Mathieu Kassovitz</span> &#183; Wri: <span class="font-weight-normal">Mathieu Kassovitz, Pierre Geller, Benoît Jaubert</span> &#183; <span class="font-weight-normal">2011</span> &#183; <span class="font-weight-normal">France, New Caledonia</span></p>
+
+![Still image from Rebellion](/assets/img/rebellion.jpg)
+
+*After a police station in New Caledonia is overrun by rebels, France sends 300 soldiers to confront them.* 
+
+Based on real events, what is striking about **Rebellion** is that it paints the political context behind the conflict better than most war films. Sure, there are impressive action sequences and compelling characters, but it's the bloodless conflict happening in the background (and thousands of miles away across two oceans) is the real driver behind all of the action on screen. And men and women are caught right in the middle of it. 
+
+---
+
+{:#moonlight .film-name}
+## *173.*{:.position} Moonlight
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Barry Jenkins</span> &#183; Wri: <span class="font-weight-normal">Barry Jenkins</span> &#183; <span class="font-weight-normal">2016</span> &#183; <span class="font-weight-normal">USA</span></p>
+
+![Still image from Moonlight](/assets/img/moonlight.jpg)
+
+*An African-American man's struggle to come to terms with his identity and sexuality.* 
+
+Without diminishing any of its qualities, **Moonlight** certainly benefitted the cultural zeitgeist when it was released. The fact that it took many this long to address the issue head-on is telling in itself, but even in isolation from its cultural context, Moonlight is a remarkable coming-of-age story with impeccable acting by a relatively unknown cast.
+
+---
+
+{:#tyrannosaur .film-name}
+## *172.*{:.position} Tyrannosaur
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Paddy Considine</span> &#183; Wri: <span class="font-weight-normal">Paddy Considine</span> &#183; <span class="font-weight-normal">2011</span> &#183; <span class="font-weight-normal">UK</span></p>
+
+![Still image from Tyrannosaur](/assets/img/tyrannosaur.jpg)
+
+*A rage-filled man finds redemption in the friendship of a Christian charity worker.* 
+
+Peter Mullan, ever-present in many a British film as the tough guy, finds himself in the spotlight in Paddy Considine's feature directorial debut as the tough guy who softens up by an act of kindness he's been refused all his life. It is a difficult watch for many reasons, but the towering central performances by Mullan and the always brilliant Olivia Colman lift this up a level or ten. It is a mesmerising watch.

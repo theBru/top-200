@@ -342,8 +342,107 @@ hr {
 }
 
 #upgrade + .meta-tags {
-    border: 1px solid lighten($upgrade,40%);
+    border: 1px solid lighten($upgrade,20%);
     & .accent-color {
         color: $upgrade;
+    }
+}
+
+#climax .position {
+    color: $climax;
+}
+
+#climax + .meta-tags {
+    border: 1px solid lighten($climax,40%);
+    & .accent-color {
+        color: $climax;
+    }
+}
+
+#lincoln .position {
+    color: $lincoln;
+}
+
+#lincoln + .meta-tags {
+    border: 1px solid lighten($lincoln,40%);
+    & .accent-color {
+        color: $lincoln;
+    }
+}
+
+#moneyball .position {
+    color: $moneyball;
+}
+
+#moneyball + .meta-tags {
+    border: 1px solid lighten($moneyball,40%);
+    & .accent-color {
+        color: $moneyball;
+    }
+}
+
+#only-god-forgives .position {
+    color: $only-god-forgives;
+}
+
+#only-god-forgives + .meta-tags {
+    border: 1px solid lighten($only-god-forgives,40%);
+    & .accent-color {
+        color: $only-god-forgives;
+    }
+}
+
+#kick-ass .position {
+    color: $kick-ass;
+}
+
+#kick-ass + .meta-tags {
+    border: 1px solid lighten($kick-ass,40%);
+    & .accent-color {
+        color: $kick-ass;
+    }
+}
+
+#wind-river .position {
+    color: $wind-river;
+}
+
+#wind-river + .meta-tags {
+    border: 1px solid lighten($wind-river,40%);
+    & .accent-color {
+        color: $wind-river;
+    }
+}
+
+#rebellion .position {
+    color: $rebellion;
+}
+
+#rebellion + .meta-tags {
+    border: 1px solid lighten($rebellion,40%);
+    & .accent-color {
+        color: $rebellion;
+    }
+}
+
+#moonlight .position {
+    color: $moonlight;
+}
+
+#moonlight + .meta-tags {
+    border: 1px solid lighten($moonlight,40%);
+    & .accent-color {
+        color: $moonlight;
+    }
+}
+
+#tyrannosaur .position {
+    color: $tyrannosaur;
+}
+
+#tyrannosaur + .meta-tags {
+    border: 1px solid lighten($tyrannosaur,40%);
+    & .accent-color {
+        color: $tyrannosaur;
     }
 }
