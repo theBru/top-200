@@ -1032,3 +1032,289 @@ So much was made about the lengths to which Leonardo DiCaprio went with his role
 *A businesswoman is tracking down the man who raped her.* 
 
 Isabelle Huppert in a Paul Verhoeven film? This was already on its way to be a winner. Though it is fair to argue that tonally it is a little uneven, but Huppert gives an iconic performance (in a career full of them) and the film takes dark and funny turns within minutes of each other. It is simply a joy to watch it. Not sure how I felt at the end, but I was sure that I didn't care about the story as much as I would have liked.
+
+---
+
+{:#the-conjuring .film-name}
+## *121.*{:.position} The Conjuring
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">James Wan</span> &#183; Wri: <span class="font-weight-normal">Chad Hayes, Carey W. Hayes</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">USA</span></p>
+
+![Still image from The Conjuring](/assets/img/the-conjuring.jpg)
+
+*A couple of paranormal investigators help a family who have moved in to a haunted house.* 
+
+Haunted house films are quite probably one of the most formulaic of all horror subgenres — the setting, premise, and outcome are all foregone conclusions from the onset. **The Conjuring** isn't trying to re-write any of the rules, but what sets it apart (at least from all similar films of the decade) is how the film manages to conjure up (sorry) a truly terrifying experience, replete with fully-fledged characters and not archetypes.
+
+---
+
+{:#lawless .film-name}
+## *120.*{:.position} Lawless
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">John Hillcoat</span> &#183; Wri: <span class="font-weight-normal">Nick Cave</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">USA</span></p>
+
+![Still image from Lawless](/assets/img/lawless.jpg)
+
+*Three bootlegging brothers' business is threated by a newly appointed law officer.* 
+
+A very smart-looking film, **Lawless** goes from strength to strength throughout its duration. What is remarkable is its world-setting is spot-on down to some of the minutest details and the human tragedies that struck the characters are not only there as plot fodders, but they enhance the story all the way to its brutal end. 
+
+---
+
+{:#mud .film-name}
+## *119.*{:.position} Mud
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Jeff Nichols</span> &#183; Wri: <span class="font-weight-normal">Jeff Nichols</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">USA</span></p>
+
+![Still image from Mud](/assets/img/mud.jpg)
+
+*Two teenage boys befriend a fugitive and help him reunite with the woman he loves.* 
+
+I'm pretty certain Jeff Nichols has a once-in-a-generation film in him. So far his films have been really, really good, but lacking just that little bit of 'amazing' gene. **Mud** comes very close to achieving it. Not that it falls way short of it. On the contrary, Mud boasts one of the best performances of the decade by Tye Sheridan and it's also the pinnacle of the McConnaissance.
+
+---
+
+{:#the-guilty .film-name}
+## *118.*{:.position} The Guilty
+
+<p class="meta-tags"><em>Den skyldige</em> &#183; Dir: <span class="font-weight-normal">Gustav Möller</span> &#183; Wri: <span class="font-weight-normal">Gustav Möller, Emily Nygaard Albertsen</span> &#183; <span class="font-weight-normal">2018</span> &#183; <span class="font-weight-normal">Denmark</span></p>
+
+![Still image from The Guilty](/assets/img/the-guilty.jpg)
+
+*A police officer answers a call of a live kidnapping while on dispoatch duty.* 
+
+Similar to **Locke** which is lower down on the list (higher up on the page, just in case), **The Guilty** is a single-location film whose dialogues virtually all happen on phone calls. Whilst The Guilty is not as claustrophobic or as marries to its premise as Locke, it is more effective in its device. A highly tense thriller with a reveal in the end that is not there for the sake of shocking the audience, but to put things in a context. Very clever storytelling.
+
+---
+
+{:#buried .film-name}
+## *117.*{:.position} Buried
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Rodrigo Cortés</span> &#183; Wri: <span class="font-weight-normal">Chris Sparling</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">Spain, UK, USA, France</span></p>
+
+![Still image from Buried](/assets/img/buried.jpg)
+
+*A man wakes up buried inside a coffin.* 
+
+Regardless of where you stand in the spectrum of claustrophobia, being woken up inside a coffin with nothing but a useless mobile phone and a few of the creatures of the underworld is more terrifying than anything you are trying to outdo this scenario. **Buried** does a wonderful job if putting its protagonist and us in this situation and just leaves us to find a way out. A truly breathless experience.
+
+---
+
+{:#tully .film-name}
+## *116.*{:.position} Tully
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Jason Reitman</span> &#183; Wri: <span class="font-weight-normal">Diablo Cody</span> &#183; <span class="font-weight-normal">2018</span> &#183; <span class="font-weight-normal">USA, Canada</span></p>
+
+![Still image from Tully](/assets/img/tully.jpg)
+
+*A mother of three hires a night nanny to help her with her newborn.* 
+
+**Tully** is a truly surprising film, not least because of its beautiful tonal shifts, but also how it subverts its narrative by simple human interactions. Plotwise, not much happens, but the impact any of the seemingly regular events on the characters' lives is anything but inconsequential. It is clever, endlessly watchable, and has some great writing from Diablo Cody.
+
+---
+
+{:#cold-in-july .film-name}
+## *115.*{:.position} Cold in July
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Jim Mickle</span> &#183; Wri: <span class="font-weight-normal">Nick Damici, Jim Mickle</span> &#183; <span class="font-weight-normal">2014</span> &#183; <span class="font-weight-normal">USA, France</span></p>
+
+![Still image from Cold in July](/assets/img/cold-in-july.jpg)
+
+*A man shoots an intruder which draws the ire of the deceased's family.* 
+
+A twisty neo-noir that plays a little like a dark slice of Americana, but what is truly great about **Cold in July** is the brilliant ensemble cast. Don Johnson's especially seedy turn is absolutely brilliant — the man has been on a roll this decade. Its hypnotic pace and clever twists and turns helped Cold in July become a very good thriller indeed.
+
+---
+
+{:#the-big-short .film-name}
+## *114.*{:.position} The Big Short
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Adam McKay</span> &#183; Wri: <span class="font-weight-normal">Charles Randolph, Adam McKay</span> &#183; <span class="font-weight-normal">2015</span> &#183; <span class="font-weight-normal">USA</span></p>
+
+![Still image from The Big Short](/assets/img/the-big-short.jpg)
+
+*A group of investors foresee the mortgage market collapse of 2007 and bet against it.* 
+
+A mockumentary of sorts, where some of the financial terminology are explained by celebrities in exceedingly distracting way by breaking the fourth wall, **The Big Short** is a fascinating account of an event whose reverberations still being felt today. You could argue that it's making light of the whole issue — I think the film is aware of this, as the mocumentary style drops off completely in the second half — but it's a very clever way to tell about a piece of history that still baffles millions around the world. Oh, and the cast is nothing short of amazing.
+
+---
+
+{:#four-lions .film-name}
+## *113.*{:.position} Four Lions
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Chris Morris</span> &#183; Wri: <span class="font-weight-normal">Chris Morris, Sam Bain, Jesse Armstrong</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">UK, France</span></p>
+
+![Still image from Four Lions](/assets/img/four-lions.jpg)
+
+*A group of amateur terrorists try to blow up the London Marathon.* 
+
+Idiots, idiots are everywhere. Chris Morris' film is a hilarious look at a bunch of buffoons as they try to add some sort of meaning to their hapless lives. At least, that's how they see it. Whether all terrorists are as idiotic as these guys can be argued. Riz Ahmed's level-headed family man is a truly mind-boggling character. For me the hardest parts were his all-too-normal domestic scenes. They were truly horrifying in an otherwise bellyachingly funny film.
+
+---
+
+{:#inception .film-name}
+## *112.*{:.position} Inception
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Christopher Nolan</span> &#183; Wri: <span class="font-weight-normal">Christopher Nolan</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">USA, UK</span></p>
+
+![Still image from Inception](/assets/img/inception.jpg)
+
+*A thief who infiltrates people's dreams is given a task to infiltrate an idea into a CEO's mind.* 
+
+One of the most memetastic films of the decade, **Inception** was also a proper mindfuck. It is tailor-made for our times where we can share myriad theories about the meaning of artistic products on social media and via other online media. Regardless of its importance in contemporary discussion, Inception was an incredibly brave film, considering how we've now completely given up on original high concept ideas in mainstream cinema. It could be the last of its kind.
+
+---
+
+{:#birdman .film-name}
+## *111.*{:.position} Birdman (Or the Unexpected Virtue of Ignorance)
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Alejandro G. Iñárritu</span> &#183; Wri: <span class="font-weight-normal">Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Armando Bo</span> &#183; <span class="font-weight-normal">2014</span> &#183; <span class="font-weight-normal">USA</span></p>
+
+![Still image from Birdman (Or the Unexpected Virtue of Ignorance)](/assets/img/birdman.jpg)
+
+*A washed-up actor tries to revive his career by directing and starring in a Broadway play.* 
+
+A virtual single-take (there are a few CGI-rendered transitions to mimic the effect), **Birdman** is a weird and wacky tale that is utterly fascinating. It's an audacious film about the medium itself, but told in a manner that transcends many dimensions within the story. The fourth wall is constantly broken both in and out of the film and everything becomes non-diegetic, even the story we're watching is externalised from itself. Genius.
+
+---
+
+{:#age-of-uprising .film-name}
+## *110.*{:.position} Age of Uprising: The Legend of Michael Kohlhaas
+
+<p class="meta-tags"><em>Michael Kohlhaas</em> &#183; Dir: <span class="font-weight-normal">Arnaud des Pallières</span> &#183; Wri: <span class="font-weight-normal">Christelle Berthevas, Arnaud des Pallières</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">France, Germany</span></p>
+
+![Still image from Age of Uprising: The Legend of Michael Kohlhaas](/assets/img/age-of-uprising.jpg)
+
+*A horse dealer raises a local army to fight against the corrupt lord.* 
+
+Fun fact: Mads Mikkelsen can act in Danish, English, German, and French. But enough of the man who is probably the best actor of his generation. Another fun fact: the original title of this film is so much better than the horrendous thing some marketer spewed out in a team meeting and with which we ended up with. Anyway, it's a fantastic historical adventure. Watch it.
+
+---
+
+{:#blue-is-the-warmest-colour .film-name}
+## *109.*{:.position} Blue Is the Warmest Colour
+
+<p class="meta-tags"><em>La vie d'Adèle</em> &#183; Dir: <span class="font-weight-normal">Abdellatif Kechiche</span> &#183; Wri: <span class="font-weight-normal">Abdellatif Chechice, Ghalia Lacroix</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">France, Tunisia, Belgium, Spain</span></p>
+
+![Still image from Blue Is the Warmest Colour](/assets/img/blue-is-the-warmest-colour.jpg)
+
+*Adèle meets Emma, who awakens new desires and help her assert herself as a woman.* 
+
+Hindsight can ruin a film and for **Blue is the Warmest Colour**, the hindsight hit very soon. With allegations of sexual assault on set and the film's overt sexuality (arguably a 'lesbian' film for heterosexual males' pleasure) in the era of 'Me Too', it has become a somewhat problematic film to like and praise. But aside from that, if you allow me, I loved every single second of this rather long film. It was sumptuous, heartbreaking, emotional, and engaging all the way through, with two bravura performances from the leads. 
+
+---
+
+{:#black-snow .film-name}
+## *108.*{:.position} Black Snow
+
+<p class="meta-tags"><em>Nieve negra</em> &#183; Dir: <span class="font-weight-normal">Martin Hodara</span> &#183; Wri: <span class="font-weight-normal">Leonel D'Agostino, Martin Hodara</span> &#183; <span class="font-weight-normal">2017</span> &#183; <span class="font-weight-normal">Argentina, Spain</span></p>
+
+![Still image from Black Snow](/assets/img/black-snow.jpg)
+
+*A man returns home to Patagonia to deal with his recently deceased father's estate.* 
+
+Shot in gorgeous Patagonia, **Black Snow** is a family drama unfolding slowly. Although the secrets-buried-under-the-snow metaphor is anything but subtle, nothing feels on-the-nose. It all unfolds naturally thanks to the actors really embracing their characters beautifully, but also with the impending claustrophobia that the incoming snowstorm brings. And that little bit just before the credits (no spoilers) is absolutely brilliant.
+
+---
+
+{:#the-square .film-name}
+## *107.*{:.position} The Square
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Ruben Östlund</span> &#183; Wri: <span class="font-weight-normal">Ruben Östlund</span> &#183; <span class="font-weight-normal">2017</span> &#183; <span class="font-weight-normal">Sweden, Germany, France, Denmar, USA</span></p>
+
+![Still image from The Square](/assets/img/the-square.jpg)
+
+*An art-gallery curator's life is breaking apart on the eve of a controversial exhibition.* 
+
+Carrying on the deadpan style of his compatriot Roy Andersson, Ruben Östlund's follow-up to **Force Majeure** (elsewhere on this list) has been summed up by one scene in its coverage: the infamous dinner sequence and its aftermath. It is truly a unique scene and arguably one of the finest of the decade, **The Square** offers much more, especially in scenes of human interaction by way of conversations. It's stark, funny, and somewhat utterly pessimistic about life.
+
+---
+
+{:#much-ado-about-nothing .film-name}
+## *106.*{:.position} Much Ado About Nothing
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Joss Whedon</span> &#183; Wri: <span class="font-weight-normal">Joss Whedon, William Shakespeare</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">USA</span></p>
+
+![Still image from Much Ado About Nothing](/assets/img/much-ado-about-nothing.jpg)
+
+*As a couple are falling in love, they and others attempt to kindle romance between another couple.* 
+
+Shakespeare adaptations can be real duds. Especially those that retain the original language (or stick too close to the source material). But Joss Whedon's adaptation is one of the best I've seen (if not the best). While retaining the originals clever wordplays, it transposes it to modern times. The effect is surprisingly fresh and the choice of black and white cinematography means our expectations are constantly challenged.
+
+---
+
+{:#the-past .film-name}
+## *105.*{:.position} The Past
+
+<p class="meta-tags"><em>Le passé</em> &#183; Dir: <span class="font-weight-normal">Asghar Farhadi</span> &#183; Wri: <span class="font-weight-normal">Asghar Farhadi</span> &#183; <span class="font-weight-normal">2013</span> &#183; <span class="font-weight-normal">France, Italy, Belgium, Iran</span></p>
+
+![Still image from The Past](/assets/img/the-past.jpg)
+
+*A man returns home to finalise divorce proceedings.* 
+
+Asghar Farhadi is, in my humble opinion, the most important director to emerge this decade, rarely putting a foot down. Going back to the marital issues he explored in the superb **A Separation** (coming up), in **The Past** he again positions the audience in a difficult position to pick a side. Constantly questioning loyalty, love, and self-interest, it is a film that deserves multiple viewings to appreiciate all the nuances.
+
+---
+
+{:#night-of-silence .film-name}
+## *104.*{:.position} Night of Silence
+
+<p class="meta-tags"><em>Lal gece</em> &#183; Dir: <span class="font-weight-normal">Reis Çelik</span> &#183; Wri: <span class="font-weight-normal">Reis Çelik</span> &#183; <span class="font-weight-normal">2012</span> &#183; <span class="font-weight-normal">Turkey</span></p>
+
+![Still image from Night of Silence](/assets/img/night-of-silence.jpg)
+
+*A child bride marries a much older man.* 
+
+The fact that child brides are still very much a reality these days is a horrifying thought. Although this film paints a very synpathetic picture of what might happen in such a scenario where a child marries a man decades older than her, the reality is not always so not-that-bad. It is a wonderful film that is not trying to find any solutions but posits the issue front and centre. A hidden gem of a film that you should seek out and watch.
+
+---
+
+{:#klown .film-name}
+## *103.*{:.position} Klown
+
+<p class="meta-tags"><em>Klovn: The Movie</em> &#183; Dir: <span class="font-weight-normal">Mikkel Nørgaard</span> &#183; Wri: <span class="font-weight-normal">Casper Christensen, Frank Hvam</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">Denmark</span></p>
+
+![Still image from Klown](/assets/img/klown.jpg)
+
+*A man 'kidnaps' his nephew to prove his fatherhood potential to his pregnant girlfriend.* 
+
+If you're easily offended, **Klown** will not be to your liking. It pushes the boundaries quite a bit, without being malicious about it. For that alone, it is a refreshing comedy. And it is really, really funny. You could argue that it's a sketch stretched over a feature length film, but the sympathetic characters make sure it remains interesting (and funny-as-fuck) until the end.
+
+---
+
+{:#under-the-shadow .film-name}
+## *102.*{:.position} Under the Shadow
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Babak Anvari</span> &#183; Wri: <span class="font-weight-normal">Babak Anvari</span> &#183; <span class="font-weight-normal">2016</span> &#183; <span class="font-weight-normal">UK, Jordan, Qatar, Iran</span></p>
+
+![Still image from Under the Shadow](/assets/img/under-the-shadow.jpg)
+
+*In post-revolution Iran, a woman is convinced that their flat is haunted.* 
+
+Though the metaphor is obvious from a mile away, this little horror drama is a very engaging film that dials up the terror ever so slightly all the way to the end. Narges Rashidi's mom, though not a very likeable person, really captures the terror a mother and an abandoned wife would feel. It is also very claustrophobic without resorting to any visual gimmicks. Shows how much you can accomplish with minimal budget and resources.
+
+---
+
+{:#archipelago .film-name}
+## *101.*{:.position} Archipelago
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Joanna Hogg</span> &#183; Wri: <span class="font-weight-normal">Joanna Hogg</span> &#183; <span class="font-weight-normal">2010</span> &#183; <span class="font-weight-normal">UK</span></p>
+
+![Still image from Archipelago](/assets/img/archipelago.jpg)
+
+*A family gets unravelled during a trip to the Isles of Scilly.* 
+
+Also known as the film that catapulted Tom Hiddleston to mainstream success, **Archipelago** is a smart, slow-moving family drama that shows tempestuous relationships under the guise of pure British stiff upper lips. On the surface, what appears to be completely calm, shows its ugly head in converdational outbursts that would scar any relationship, however close they may be. And, as the title suggests, they weren't that close to begin with.
+
+---
+
+{:#the-falling .film-name}
+## *100.*{:.position} The Falling
+
+<p class="meta-tags">Dir: <span class="font-weight-normal">Carol Morley</span> &#183; Wri: <span class="font-weight-normal">Carol Morley</span> &#183; <span class="font-weight-normal">2014</span> &#183; <span class="font-weight-normal">UK</span></p>
+
+![Still image from The Falling](/assets/img/the-falling.jpg)
+
+*Girls in a rural 1960s school start falling ill.* 
+
+A coming-of-age story that mixes the mysterious with the down-to-earth perfectly. Led by two stand-out performances from Florence Pugh and Maisie Williams, there is a little bit of **Picnic at Hanging Rock** and a little bit of **Dead Poets Society** thrown in, but it manages to look and feel unique despite those inspirations. And Maxine Peak as the distant mother is absolutely breathtaking.
